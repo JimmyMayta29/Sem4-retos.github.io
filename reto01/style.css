@@ -4,7 +4,7 @@ body {
 	
 }
 
-section {
+.container-text {
 	background-color: rgb(255, 255, 255);
 	margin: 15px;
 	border-radius: 10px;
@@ -36,6 +36,7 @@ h2 {
 	font-size: 20px;
 	letter-spacing: 5px;
 	margin-bottom: 3px;
+	font-weight: 100;
 }
 
 .parrafo {
@@ -62,7 +63,7 @@ button {
 	background-color: hsl(158, 36%, 37%);
 	border-radius: 10px;
 	font-family: 'Montserrat', sans-serif;
-	width: 80%;
+	width: 100%;
 	color: white;
 	border: none;
 	padding: 10px 20px;

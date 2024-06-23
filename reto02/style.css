@@ -23,7 +23,7 @@ img {
 h1 {
 	font-family: 'Lexend Deca', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 }
 
 .title-color {
@@ -33,7 +33,7 @@ h1 {
 .parrafo {
 	color: hsla(0, 0%, 100%, 0.6);
 	font-family: 'Inter', sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 }
 
 .number {
